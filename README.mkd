@@ -2,19 +2,19 @@
 ### This repository contains the projects that i've learned in the Rockseat Ignite course about ReactJS
 
 - Chapter I
-- [Fundamentos do ReactJS](https://github.com/JoaoGF03/Ignite-ReactJS/01-github-explorer)
+- [Fundamentos do ReactJS](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master/01-github-explorer)
 * Chapter II
-* [Primeira aplicação web com ReactJS](https://github.com/JoaoGF03/Ignite-ReactJS)
+* [Primeira aplicação web com ReactJS](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
 - Chapter III
-- [Fundamentos do Next.js](https://github.com/JoaoGF03/Ignite-ReactJS)
-- [Back-end no front-end](https://github.com/JoaoGF03/Ignite-ReactJS)
-- [Front-end JAMStack](https://github.com/JoaoGF03/Ignite-ReactJS)
+- [Fundamentos do Next.js](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
+- [Back-end no front-end](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
+- [Front-end JAMStack](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
 * Chapter IV
-* [Construindo interfaces do futuro](https://github.com/JoaoGF03/Ignite-ReactJS)
-* [Data fetching e cache local](https://github.com/JoaoGF03/Ignite-ReactJS)
-* [Autenticação e autorização](https://github.com/JoaoGF03/Ignite-ReactJS)
+* [Construindo interfaces do futuro](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
+* [Data fetching e cache local](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
+* [Autenticação e autorização](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
 - Chapter V
-- [Performando apps com ReactJS](https://github.com/JoaoGF03/Ignite-ReactJS)
-- [Testes unitários no React](https://github.com/JoaoGF03/Ignite-ReactJS)
+- [Performando apps com ReactJS](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
+- [Testes unitários no React](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
 * Chapter VI
-* [Estratégias de deploys no ReactJS](https://github.com/JoaoGF03/Ignite-ReactJS)
+* [Estratégias de deploys no ReactJS](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master)
