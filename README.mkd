@@ -1,5 +1,5 @@
 # Ignite - ReactJS
-### This repository contains the projects that i've learned in the Rockseat Ignite course about ReactJS
+### This repository contains the projects that i've learned in the Rocktseat Ignite course about ReactJS
 
 - Chapter I
 - [Fundamentos do ReactJS](https://github.com/JoaoGF03/Ignite-ReactJS/tree/master/01-github-explorer)
